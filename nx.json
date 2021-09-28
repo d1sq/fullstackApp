@@ -27,12 +27,21 @@
     ]
   },
   "projects": {
+    "api": {
+      "tags": []
+    },
+    "data": {
+      "tags": []
+    },
     "front": {
       "tags": []
     },
     "front-e2e": {
       "tags": [],
       "implicitDependencies": ["front"]
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
