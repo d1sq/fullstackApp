@@ -6,27 +6,21 @@ export class AppService {
   listOfData: Person[] = [
     {
       key: '1',
-      name: 'John Brown',
-      age: 32,
-      address: 'New York No. 1 Lake Park',
+      name: 'Андрей <Andrew> Семахин',
+      age: 1,
+      address: 'Неизвестно',
     },
     {
       key: '2',
-      name: 'Jim Green',
-      age: 42,
-      address: 'London No. 1 Lake Park',
+      name: 'Душнила Симахин',
+      age: 80,
+      address: 'Неизвестно',
     },
     {
       key: '3',
-      name: 'Joe Black',
-      age: 32,
-      address: 'Sidney No. 1 Lake Park',
-    },
-    {
-      key: '4',
-      name: 'Joe White',
-      age: 32,
-      address: 'Sidney No. 1 Lake Park',
+      name: 'Дмитрий Иванович <Dick> Дик',
+      age: 40,
+      address: 'Неизвестно',
     },
   ];
 
